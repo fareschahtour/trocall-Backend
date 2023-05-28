@@ -1,4 +1,4 @@
-# Serveur node backend Chicky
+# Serveur node backend Troc'all
 Ce repo contient les fonctions a consommer par notre application iOS 
 
 ## Construit avec
